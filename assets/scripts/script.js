@@ -33,7 +33,7 @@ const songs = [{
     {
         title: 'Track 4 - Sample Audio 4',
         artist: 'Bensound | Royalty Free Music',
-        coverPath: 'img/track4.jpg',
+        coverPath: 'img/track3.jpg',
         discPath: 'music/track4.mp3',
     },
 ];
